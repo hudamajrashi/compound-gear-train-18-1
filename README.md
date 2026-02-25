@@ -35,9 +35,22 @@ This means:
 - Gear 4 (Output Gear): 72 teeth  
 
 All gears share the same module and pressure angle to ensure proper meshing.
+
 ![Gear Arrangement](images/gears.png)
+
+---
+## Gear Teeth Configuration
+
+- Gear 1 (Input Gear): 15 teeth  
+- Gear 2: 45 teeth  
+- Gear 3 (Compound with Gear 2): 12 teeth  
+- Gear 4 (Output Gear): 72 teeth  
+
+All gears share the same module and pressure angle to ensure proper meshing.
+
+![Gear Layout](images/gears.png)
 
 ---
 
 ### Gear Arrangement Overview
-![Gear initial Layout](images/gears-ratio-demo.png)
+![Compound Shaft Configuration](images/gear-ratio-demo.png)
