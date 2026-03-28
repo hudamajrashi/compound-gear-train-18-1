@@ -46,5 +46,6 @@ This means:
 ![Compound Shaft Configuration](images/gear-ratio-demo.png)
 ![Compound Shaft Configuration isometric](images/gear-ratio-demo-iso.png)
 
-👉 [View Gears Assembly on Onshape]([https://cad.onshape.com/documents/0a2fd772956fbc05f9e72e6a/w/2a8a5b093140de31725a28e6/e/d2cf985292af4ceac076df0b?renderMode=0&uiState=697d3e8ddcc3d2a23291cb8a](https://cad.onshape.com/documents/54765a799578803abbf6e4ab/w/283c70b85819263b978e2fb7/e/61d55601fac02ee09b8569ff?renderMode=0&uiState=69c76d428aa2f81dae01b428))
+View the full assembly here:  
+👉 https://cad.onshape.com/documents/54765a799578803abbf6e4ab/w/283c70b85819263b978e2fb7/e/61d55601fac02ee09b8569ff
 
